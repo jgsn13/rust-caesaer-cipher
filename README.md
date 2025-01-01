@@ -1,6 +1,6 @@
 # Cifra de César em Rust
 
-Implementação da Cifra de César em Rust para criptografia e descriptografia com chave fixa (3).
+Implementação da Cifra de César em Rust para criptografia e descriptografia com chave fixa.
 
 ## Funcionalidades
 
